@@ -9,4 +9,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)}" />
