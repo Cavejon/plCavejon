@@ -15,6 +15,11 @@ I'm currently studying some technologies like:
 ° <img src="{https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}" /> DJANGO
 ° <img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}" /> NODE.JS.
 
+<div>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23cc0066)](mailto:analambertuccisimas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23ff0080)](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
+[![Codepen](https://img.shields.io/badge/-Codepen-ff69b4)](https://codepen.io/anasimas)
+</div>
 
 I'm looking for an opportunity to consolidate my studies, in this gitHub we have some examples of a project I've done
 
