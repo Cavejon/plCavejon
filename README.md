@@ -1,27 +1,34 @@
 
 
-Hello my Name Is Pedro!
+## 🌐 Hello, my Name Is Pedro!
 
-I am currently an academy in systems analysis and development.
+### 💻 I am currently an academy in systems analysis and development.
 
 I'm currently studying some technologies like:
 
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+<div style="display: inline_block">
 
-° <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> JAVASCRIPT
-° <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> HTML5
-° <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> CSS3
-° <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> PYTHON
-° <img src="{https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}" /> DJANGO
-° <img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}" /> NODE.JS.
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> Html5
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> Css3
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> Django
+°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.JS
 
-
-[![Gmail](https://img.shields.io/badge/-Gmail-%23cc0066)](mailto:analambertuccisimas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23ff0080)](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
-[![Codepen](https://img.shields.io/badge/-Codepen-ff69b4)](https://codepen.io/anasimas)
-
-
+</div>
+<br>
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavejon&show_icons=true&theme=tokyonight"/>
+ 
+  </div>
+  
 I'm looking for an opportunity to consolidate my studies, in this gitHub we have some examples of a project I've done
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolcavejon/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrolucascavejon@gmail.com)
+
+
 
 
 
