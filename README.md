@@ -1,14 +1,24 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+Hello my Name Is Pedro!
 
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I am currently an academy in systems analysis and development.
+
+I'm currently studying some technologies like:
+
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> JAVASCRIPT
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> HTML5
+<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> CSS3
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> PYTHON
+<img src="{https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}" /> DJANGO
+<img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}" /> NODE.JS.
+
+
+I'm looking for an opportunity to consolidate my studies, in this gitHub we have some examples of a project I've done
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
 
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)}" />
+
